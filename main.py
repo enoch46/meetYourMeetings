@@ -22,7 +22,7 @@ class Meeting():
         # Test name: testMeeting
         # Step # | name | target | value
         # 1 | open | /web/ |
-        self.driver.get("http://meeting.xiaojukeji.com/web/")
+        self.driver.get("http://yourmeeting.system.com/web/")
         # 2 | setWindowSize | 1440x875 |
         self.driver.set_window_size(1560, 1024)
 
