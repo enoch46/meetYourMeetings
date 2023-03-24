@@ -1,2 +1,6 @@
 # meetYourMeetings
 meet your meetings
+meet your meetings
+所在公司会议室资源紧缺，采用python selenium+chromedriver开发了一个自动预定会议室的工具
+公司会议室提前4天开放，开放日10点开抢
+所以设置了crontab定时任务，每天10点固定抢4天后的会议室资源
